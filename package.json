@@ -1,0 +1,20 @@
+{
+  "name": "a31-ai-course",
+  "version": "3.0.4",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
